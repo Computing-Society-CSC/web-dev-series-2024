@@ -16,13 +16,12 @@ Each session repository serves as an archive of session materials, ensuring acce
 ---
 ## Example by host
 
-📄 [Project 1](https://github.com/Computing-Society-CSC/.github)
+📄 [MiniArchive](https://github.com/Computing-Society-CSC/MiniArchive)
 
 ## 🎓 Member's Work
 
 List any member submissions, additional materials, or useful references:
-- 📄 [Member Project 1](https://github.com/Computing-Society-CSC/.github)
-- 📄 [Member Project 2](https://github.com/Computing-Society-CSC/.github)
+- Currently null.
 
 ---
 ## 📖 Document Usage
